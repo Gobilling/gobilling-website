@@ -21,7 +21,7 @@ Last updated: 15 September 2026
 
 ## Pending after first publication
 
-- Cloudflare login required: replace parked-domain DNS with GitHub Pages records, then enable HTTPS
+- Cloudflare account switch required: `gobilling.app` is visible in the user's screenshot under the account beginning `Vsprurohit.16@gmail…`, but the currently signed-in `bestchoicealways1@gmail.com` account contains no domains. Sign in to the domain-owning account, then replace parked-domain DNS with GitHub Pages records and enable HTTPS.
 - Add real GoBilling screen recording
 - Add 2–3 real product screenshots
 - Add approved customer testimonials and shop logos
