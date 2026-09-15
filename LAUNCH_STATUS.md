@@ -15,6 +15,7 @@ Last updated: 15 September 2026
 - UTM attribution and conversion-event instrumentation
 - robots.txt, sitemap.xml and no-Jekyll configuration
 - Branded social-sharing image and Open Graph metadata
+- Complete cross-platform logo kit: master marks, light/dark wordmarks, favicons, PWA/Apple icons and Windows application ICO/PNG sizes
 - Supabase production write/readback test completed and test rows removed
 - GitHub Pages repository created and first build completed
 
