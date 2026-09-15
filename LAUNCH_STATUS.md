@@ -18,10 +18,13 @@ Last updated: 15 September 2026
 - Complete cross-platform logo kit: master marks, light/dark wordmarks, favicons, PWA/Apple icons and Windows application ICO/PNG sizes
 - Supabase production write/readback test completed and test rows removed
 - GitHub Pages repository created and first build completed
+- Cloudflare apex DNS updated to all four GitHub Pages addresses (DNS only)
+- `www.gobilling.app` updated to `gobilling.github.io` (DNS only)
+- Production domain verified serving the GoBilling website over HTTP
 
 ## Pending after first publication
 
-- Cloudflare account switch required: `gobilling.app` is visible in the user's screenshot under the account beginning `Vsprurohit.16@gmail…`, but the currently signed-in `bestchoicealways1@gmail.com` account contains no domains. Sign in to the domain-owning account, then replace parked-domain DNS with GitHub Pages records and enable HTTPS.
+- GitHub is provisioning the custom-domain TLS certificate; enable HTTPS enforcement as soon as the certificate becomes available
 - Add real GoBilling screen recording
 - Add 2–3 real product screenshots
 - Add approved customer testimonials and shop logos
