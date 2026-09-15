@@ -21,10 +21,15 @@ Last updated: 15 September 2026
 - Cloudflare apex DNS updated to all four GitHub Pages addresses (DNS only)
 - `www.gobilling.app` updated to `gobilling.github.io` (DNS only)
 - Production domain verified serving the GoBilling website over HTTP
+- Version 1 preserved as Git tag `website-v1` and a dated ZIP archive
+- Premium Version 2 implemented with real-product demo screenshots, comparison, FAQ and qualified demo form
 
 ## Pending after first publication
 
 - GitHub is provisioning the custom-domain TLS certificate; enable HTTPS enforcement as soon as the certificate becomes available
+- Obtain approved customer testimonials, business names, cities and logos before adding social proof
+- Confirm commercial plan pricing and module limits, or retain the quotation-only approach
+- Obtain final approval for the fictional-data product screenshots before using them in paid advertising
 - Add real GoBilling screen recording
 - Add 2–3 real product screenshots
 - Add approved customer testimonials and shop logos
