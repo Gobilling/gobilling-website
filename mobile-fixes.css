@@ -993,6 +993,6 @@
   }
 
   .mobile-dock.visible ~ .wa {
-    bottom: 82px;
+    display: none;
   }
 }
