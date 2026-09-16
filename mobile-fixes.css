@@ -5,6 +5,109 @@
   display: none;
 }
 
+/* Language selector and Indian-script typography. */
+.language-switcher {
+  position: relative;
+  z-index: 20;
+  display: inline-flex;
+  align-items: center;
+  gap: 7px;
+  min-height: 36px;
+  padding: 5px 9px;
+  border: 1px solid #d8b55a66;
+  border-radius: 8px;
+  background: #06251dcc;
+  color: #f5df9e;
+  box-shadow: 0 8px 24px #001a1252;
+  backdrop-filter: blur(10px);
+}
+
+.language-switcher span {
+  color: #e3bd5c;
+  font-size: .82rem;
+  font-weight: 900;
+}
+
+.language-switcher select {
+  max-width: 105px;
+  border: 0;
+  outline: 0;
+  background: transparent;
+  color: #fff;
+  font: 750 .76rem/1.2 Inter, "Noto Sans Devanagari", "Noto Sans Telugu", system-ui, sans-serif;
+  cursor: pointer;
+}
+
+.language-switcher select option {
+  background: #08271f;
+  color: #fff;
+}
+
+.language-switcher-side {
+  margin: 0 0 17px 40px;
+  align-self: flex-start;
+}
+
+.language-switcher-mobile {
+  position: absolute;
+  top: 24px;
+  left: 32px;
+  display: inline-flex;
+}
+
+html[lang="hi"] body,
+html[lang="te"] body {
+  font-family: "Noto Sans Devanagari", "Noto Sans Telugu", Inter, "Segoe UI", system-ui, sans-serif;
+}
+
+html[lang="hi"] h1,
+html[lang="hi"] h2,
+html[lang="te"] h1,
+html[lang="te"] h2 {
+  font-family: "Noto Sans Devanagari", "Noto Sans Telugu", Georgia, serif;
+  letter-spacing: -.025em;
+  line-height: 1.08;
+}
+
+@media (max-width: 650px) {
+  .language-switcher-side {
+    display: none;
+  }
+
+  .language-switcher-mobile {
+    position: absolute;
+    top: 10px;
+    left: auto;
+    right: 10px;
+    display: inline-flex;
+    min-height: 32px;
+    padding: 4px 7px;
+    border-radius: 999px;
+  }
+
+  .language-switcher-mobile span {
+    display: none;
+  }
+
+  .language-switcher-mobile select {
+    max-width: 75px;
+    font-size: .67rem;
+  }
+
+  html[lang="hi"] .mobile-hero-copy h1,
+  html[lang="te"] .mobile-hero-copy h1 {
+    max-width: 330px;
+    font-size: clamp(1.45rem, 6.8vw, 1.8rem);
+    line-height: 1.08;
+  }
+
+  html[lang="hi"] .billing-heading h2,
+  html[lang="te"] .billing-heading h2 {
+    font-size: clamp(2.25rem, 10vw, 3rem);
+    line-height: 1.08;
+  }
+}
+
 .mobile-dock,
 .mobile-module-menu {
   display: none;
