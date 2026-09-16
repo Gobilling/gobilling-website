@@ -6,7 +6,7 @@
       'Built for\nIndian Jewellery Businesses': 'भारतीय ज्वेलरी व्यवसायों के लिए',
       'See how GoBilling fits your jewellery business.': 'देखें GoBilling आपके ज्वेलरी व्यवसाय में कैसे काम करता है।',
       'Start with billing, stock, labels or the workflow that matters most to you.': 'Billing, stock, labels या आपके सबसे जरूरी काम से शुरुआत करें।',
-      'Explore product': 'Product देखें', 'Book your free demo': 'Free demo बुक करें',
+      'Explore product': 'Product देखें', 'Book your free demo': 'फ्री डेमो बुक करें',
       'Billing Simplified': 'Billing आसान', 'Inventory In Control': 'Stock नियंत्रण में', 'Business Ahead': 'व्यवसाय आगे',
       'Bill quickly': 'जल्दी Bill बनाएं', 'One focused billing screen.': 'एक आसान Billing screen।',
       'Know every item': 'हर item की जानकारी', 'Image, tag, weight and location.': 'Photo, tag, weight और location।',
@@ -14,12 +14,12 @@
       'Act on time': 'समय पर कार्रवाई', 'Attention queues and reports.': 'जरूरी काम और reports।',
       'Quick Billing': 'Quick Billing', 'Inventory & Labels': 'Stock और Labels', 'Orders & Karigar': 'Orders और Karigar',
       'Customers & Parties': 'Customers और Parties', 'Girvi Management': 'Girvi Management', 'Saving Schemes': 'Saving Schemes',
-      'Marketing': 'Marketing', 'Reports & Control': 'Reports और Control', 'Book a Demo': 'Demo बुक करें',
-      'Book a demo': 'Demo बुक करें', 'Contact': 'संपर्क', 'Demo': 'Demo',
+      'Marketing': 'Marketing', 'Reports & Control': 'Reports और Control', 'Book a Demo': 'डेमो बुक करें',
+      'Book a demo': 'डेमो बुक करें', 'Contact': 'संपर्क', 'Demo': 'डेमो',
       'Explore GoBilling': 'GoBilling देखें', 'Choose the workflow you want to see': 'वह काम चुनें जिसे आप देखना चाहते हैं',
       '01 QUICK BILLING': '01 QUICK BILLING', 'Complete the bill without changing screens.': 'Screen बदले बिना पूरा bill बनाएं।',
       'Everything stays on one screen': 'सब कुछ एक ही screen पर', 'Customer, item, URD, charges, payment and bill saving.': 'Customer, item, URD, charges, payment और bill saving।',
-      'Jewellery calculations built in': 'Jewellery calculations अपने-आप', 'Purity, gross and net weight, wastage, making and GST.': 'Purity, gross/net weight, wastage, making और GST।',
+      'Jewellery calculations built in': 'Jewellery calculations अपने-आप', 'Purity, gross and net weight, wastage, making and GST.': 'Purity, gross/net weight, घट / वेस्टेज, making और GST।',
       'Familiar and quick to learn': 'परिचित और सीखने में आसान', 'Designed around the billing flow jewellery shops already understand.': 'ज्वेलरी दुकान के परिचित Billing तरीके के अनुसार बनाया गया।',
       'See a jewellery invoice build itself from customer selection to payment and save.': 'Customer चुनने से payment और save तक invoice बनते हुए देखें।',
       'Sri Mathaji Jewellers · New Tax Invoice': 'Sri Mathaji Jewellers · नया Tax Invoice',
@@ -42,7 +42,7 @@
       'Delivery control': 'Delivery control', 'New': 'नया', 'In work': 'काम में', 'Ready': 'तैयार', 'Assign': 'Assign करें', 'Track': 'Track करें', 'Deliver': 'Deliver करें',
       '04 CUSTOMERS AND PARTIES': '04 CUSTOMERS और PARTIES', 'Remember the relationship, not only the balance.': 'सिर्फ balance नहीं, पूरा customer संबंध याद रखें।',
       'Customers, suppliers and karigars with ledgers, family profiles and follow-ups.': 'Customers, suppliers और karigars के ledgers, family profiles और follow-ups।',
-      'Complete party ledgers': 'पूरे party ledgers', 'Old and current money, gold and silver transactions.': 'पुराने और नए money, gold और silver transactions।',
+      'Complete party ledgers': 'ग्राहक / पार्टी लेज़र', 'Old and current money, gold and silver transactions.': 'पुराने और नए money, gold और silver transactions।',
       'Family and preferences': 'Family और preferences', 'Sizes, birthdays, anniversaries and buying interests.': 'Sizes, birthdays, anniversaries और buying interests।',
       'Requests and follow-ups': 'Requests और follow-ups', 'Product interest, price alert, custom order and reminders.': 'Product interest, price alert, custom order और reminders।',
       'Supplier examples use familiar names such as Balaji Jewellers.': 'Supplier के लिए Balaji Jewellers जैसे परिचित नाम दिखाए गए हैं।',
@@ -75,7 +75,7 @@
       'What should we show first?': 'सबसे पहले क्या दिखाएं?', 'Primary reason for considering GoBilling': 'GoBilling लेने का मुख्य कारण',
       'Select the main reason': 'मुख्य कारण चुनें', 'Anything we should prepare?': 'Demo के लिए कोई खास तैयारी?',
       'I agree that Ratan Business Solutions may contact me.': 'मैं सहमत हूं कि Ratan Business Solutions मुझसे संपर्क कर सकता है।',
-      'Privacy policy': 'Privacy policy', 'Request demo on WhatsApp': 'WhatsApp पर demo मांगें',
+      'Privacy policy': 'Privacy policy', 'Request demo on WhatsApp': 'WhatsApp पर डेमो बुक करें',
       'Faster and easier billing': 'तेज और आसान Billing', 'Better stock and label control': 'बेहतर stock और label control',
       'Move from Excel or manual records': 'Excel या manual records से बदलाव', 'Manage karigar, Girvi or schemes': 'Karigar, Girvi या schemes संभालना',
       'GST reports and business control': 'GST reports और business control', 'Opening a new jewellery business': 'नया jewellery business शुरू करना',
@@ -92,7 +92,7 @@
       'Built for\nIndian Jewellery Businesses': 'భారతీయ జ్యువెలరీ వ్యాపారాల కోసం',
       'See how GoBilling fits your jewellery business.': 'GoBilling మీ జ్యువెలరీ వ్యాపారానికి ఎలా ఉపయోగపడుతుందో చూడండి.',
       'Start with billing, stock, labels or the workflow that matters most to you.': 'Billing, stock, labels లేదా మీకు ముఖ్యమైన పనితో ప్రారంభించండి.',
-      'Explore product': 'Product చూడండి', 'Book your free demo': 'Free demo బుక్ చేయండి',
+      'Explore product': 'Product చూడండి', 'Book your free demo': 'ఉచిత డెమో బుక్ చేసుకోండి',
       'Billing Simplified': 'Billing సులభం', 'Inventory In Control': 'Stock నియంత్రణలో', 'Business Ahead': 'వ్యాపారం ముందుకు',
       'Bill quickly': 'వేగంగా Bill చేయండి', 'One focused billing screen.': 'ఒకే సులభమైన Billing screen.',
       'Know every item': 'ప్రతి item వివరాలు', 'Image, tag, weight and location.': 'Photo, tag, weight మరియు location.',
@@ -100,12 +100,12 @@
       'Act on time': 'సమయానికి చర్య', 'Attention queues and reports.': 'ముఖ్యమైన పనులు మరియు reports.',
       'Quick Billing': 'Quick Billing', 'Inventory & Labels': 'Stock & Labels', 'Orders & Karigar': 'Orders & Karigar',
       'Customers & Parties': 'Customers & Parties', 'Girvi Management': 'Girvi Management', 'Saving Schemes': 'Saving Schemes',
-      'Marketing': 'Marketing', 'Reports & Control': 'Reports & Control', 'Book a Demo': 'Demo బుక్ చేయండి',
-      'Book a demo': 'Demo బుక్ చేయండి', 'Contact': 'సంప్రదించండి', 'Demo': 'Demo',
+      'Marketing': 'Marketing', 'Reports & Control': 'Reports & Control', 'Book a Demo': 'డెమో బుక్ చేసుకోండి',
+      'Book a demo': 'డెమో బుక్ చేసుకోండి', 'Contact': 'సంప్రదించండి', 'Demo': 'డెమో',
       'Explore GoBilling': 'GoBilling చూడండి', 'Choose the workflow you want to see': 'మీరు చూడాలనుకునే పనిని ఎంచుకోండి',
       '01 QUICK BILLING': '01 QUICK BILLING', 'Complete the bill without changing screens.': 'Screen మార్చకుండా పూర్తి bill చేయండి.',
       'Everything stays on one screen': 'అన్నీ ఒకే screenలో', 'Customer, item, URD, charges, payment and bill saving.': 'Customer, item, URD, charges, payment మరియు bill saving.',
-      'Jewellery calculations built in': 'Jewellery calculations ఆటోమేటిక్', 'Purity, gross and net weight, wastage, making and GST.': 'Purity, gross/net weight, wastage, making మరియు GST.',
+      'Jewellery calculations built in': 'Jewellery calculations ఆటోమేటిక్', 'Purity, gross and net weight, wastage, making and GST.': 'Purity, gross/net weight, తరుగు (Wastage), making మరియు GST.',
       'Familiar and quick to learn': 'తెలిసిన విధానం, త్వరగా నేర్చుకోవచ్చు', 'Designed around the billing flow jewellery shops already understand.': 'జ్యువెలరీ షాపులకు తెలిసిన Billing విధానంతో రూపొందించబడింది.',
       'See a jewellery invoice build itself from customer selection to payment and save.': 'Customer ఎంపిక నుంచి payment మరియు save వరకు invoice తయారవడం చూడండి.',
       'Sri Mathaji Jewellers · New Tax Invoice': 'Sri Mathaji Jewellers · కొత్త Tax Invoice',
@@ -128,7 +128,7 @@
       'Delivery control': 'Delivery control', 'New': 'కొత్త', 'In work': 'పనిలో', 'Ready': 'సిద్ధం', 'Assign': 'Assign చేయండి', 'Track': 'Track చేయండి', 'Deliver': 'Deliver చేయండి',
       '04 CUSTOMERS AND PARTIES': '04 CUSTOMERS & PARTIES', 'Remember the relationship, not only the balance.': 'Balance మాత్రమే కాదు, పూర్తి customer సంబంధాన్ని గుర్తుంచుకోండి.',
       'Customers, suppliers and karigars with ledgers, family profiles and follow-ups.': 'Customers, suppliers, karigarsకు ledgers, family profiles మరియు follow-ups.',
-      'Complete party ledgers': 'పూర్తి party ledgers', 'Old and current money, gold and silver transactions.': 'పాత, కొత్త money, gold మరియు silver transactions.',
+      'Complete party ledgers': 'కస్టమర్ ఖాతా / పార్టీ లెడ్జర్', 'Old and current money, gold and silver transactions.': 'పాత, కొత్త money, gold మరియు silver transactions.',
       'Family and preferences': 'Family మరియు preferences', 'Sizes, birthdays, anniversaries and buying interests.': 'Sizes, birthdays, anniversaries మరియు buying interests.',
       'Requests and follow-ups': 'Requests మరియు follow-ups', 'Product interest, price alert, custom order and reminders.': 'Product interest, price alert, custom order మరియు reminders.',
       'Supplier examples use familiar names such as Balaji Jewellers.': 'Supplier కోసం Balaji Jewellers వంటి పరిచయమైన పేర్లు చూపించాం.',
@@ -161,7 +161,7 @@
       'What should we show first?': 'ముందుగా ఏమి చూపాలి?', 'Primary reason for considering GoBilling': 'GoBilling తీసుకోవడానికి ప్రధాన కారణం',
       'Select the main reason': 'ప్రధాన కారణాన్ని ఎంచుకోండి', 'Anything we should prepare?': 'Demo కోసం ఏదైనా సిద్ధం చేయాలా?',
       'I agree that Ratan Business Solutions may contact me.': 'Ratan Business Solutions నన్ను సంప్రదించడానికి నేను అంగీకరిస్తున్నాను.',
-      'Privacy policy': 'Privacy policy', 'Request demo on WhatsApp': 'WhatsAppలో demo కోరండి',
+      'Privacy policy': 'Privacy policy', 'Request demo on WhatsApp': 'వాట్సాప్‌లో డెమో బుక్ చేసుకోండి',
       'Faster and easier billing': 'వేగమైన, సులభమైన Billing', 'Better stock and label control': 'మెరుగైన stock మరియు label control',
       'Move from Excel or manual records': 'Excel లేదా manual records నుంచి మారడం', 'Manage karigar, Girvi or schemes': 'Karigar, Girvi లేదా schemes నిర్వహణ',
       'GST reports and business control': 'GST reports మరియు business control', 'Opening a new jewellery business': 'కొత్త jewellery business ప్రారంభించడం',
@@ -252,7 +252,7 @@
       if (builtFor) builtFor.innerHTML = language === 'hi' ? 'भारतीय ज्वेलरी<br>व्यवसायों के लिए' : 'భారతీయ జ్యువెలరీ<br>వ్యాపారాల కోసం';
       const diary = document.querySelector('.mobile-diary-promise');
       if (diary) diary.innerHTML = language === 'hi' ? 'आज SMART BILLING.<br>कल मजबूत BUSINESS.' : 'ఈ రోజు SMART BILLING.<br>రేపు బలమైన BUSINESS.';
-      const greeting = language === 'hi' ? 'नमस्ते, मैं GoBilling demo बुक करना चाहता/चाहती हूं।' : 'నమస్కారం, నేను GoBilling demo బుక్ చేయాలనుకుంటున్నాను.';
+      const greeting = language === 'hi' ? 'नमस्ते, मैं GoBilling का डेमो बुक करना चाहता/चाहती हूं।' : 'నమస్కారం, నేను GoBilling డెమో బుక్ చేసుకోవాలనుకుంటున్నాను.';
       document.querySelectorAll('a[href*="wa.me/917989070733"]').forEach(link => {
         const url = new URL(link.href);
         url.searchParams.set('text', greeting);
@@ -265,8 +265,8 @@
     language,
     formPreparing: () => language === 'hi' ? 'आपका request तैयार हो रहा है...' : language === 'te' ? 'మీ request సిద్ధమవుతోంది...' : 'Preparing your request...',
     whatsappMessage: data => {
-      if (language === 'hi') return [`नमस्ते, मैं GoBilling demo बुक करना चाहता/चाहती हूं।`, '', `नाम: ${data.name}`, `दुकान: ${data.shop}`, `Phone: ${data.phone}`, `शहर: ${data.city || 'नहीं दिया'}`, `पहले दिखाएं: ${data.need}`, `Notes: ${data.message || 'कोई नहीं'}`].join('\n');
-      if (language === 'te') return [`నమస్కారం, నేను GoBilling demo బుక్ చేయాలనుకుంటున్నాను.`, '', `పేరు: ${data.name}`, `దుకాణం: ${data.shop}`, `Phone: ${data.phone}`, `నగరం: ${data.city || 'ఇవ్వలేదు'}`, `ముందుగా చూపించండి: ${data.need}`, `Notes: ${data.message || 'ఏమీ లేదు'}`].join('\n');
+      if (language === 'hi') return [`नमस्ते, मैं GoBilling का डेमो बुक करना चाहता/चाहती हूं।`, '', `नाम: ${data.name}`, `दुकान: ${data.shop}`, `Phone: ${data.phone}`, `शहर: ${data.city || 'नहीं दिया'}`, `पहले दिखाएं: ${data.need}`, `Notes: ${data.message || 'कोई नहीं'}`].join('\n');
+      if (language === 'te') return [`నమస్కారం, నేను GoBilling డెమో బుక్ చేసుకోవాలనుకుంటున్నాను.`, '', `పేరు: ${data.name}`, `దుకాణం: ${data.shop}`, `Phone: ${data.phone}`, `నగరం: ${data.city || 'ఇవ్వలేదు'}`, `ముందుగా చూపించండి: ${data.need}`, `Notes: ${data.message || 'ఏమీ లేదు'}`].join('\n');
       return [`Hi, I would like to book a GoBilling demo.`, '', `Name: ${data.name}`, `Business: ${data.shop}`, `Phone: ${data.phone}`, `City: ${data.city || 'Not provided'}`, `Show first: ${data.need}`, `Notes: ${data.message || 'None'}`].join('\n');
     }
   };
