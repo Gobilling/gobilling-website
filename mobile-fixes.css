@@ -995,4 +995,8 @@
   .mobile-dock.visible ~ .wa {
     display: none;
   }
+
+  .wa {
+    display: none !important;
+  }
 }
