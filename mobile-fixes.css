@@ -9,22 +9,6 @@
   position: relative;
 }
 
-.desktop-diary-promise {
-  position: absolute;
-  z-index: 2;
-  left: 17.4%;
-  top: 82.2%;
-  width: 31%;
-  padding: 8px 18px;
-  transform: rotate(-1deg);
-  background: radial-gradient(ellipse at center, #0b3429 0 52%, #0b3429e8 67%, transparent 78%);
-  color: #e5bd61;
-  font: 700 clamp(.48rem, .78vw, .82rem)/1.28 Georgia, serif;
-  letter-spacing: .17em;
-  text-align: center;
-  text-shadow: 0 1px 2px #0009;
-}
-
 @media (max-width: 650px) {
   .hero-artwork::after {
     content: "";
@@ -36,9 +20,6 @@
     background: linear-gradient(180deg, #073126 0%, #073126 78%, #073126e8 88%, transparent 100%);
   }
 
-  .desktop-diary-promise {
-    display: none;
-  }
   .hero picture {
     display: block !important;
   }
