@@ -985,7 +985,7 @@
   .mobile-values {
     position: absolute;
     top: 245px;
-    right: 24px;
+    right: 64px;
     display: grid;
     justify-items: start;
     gap: 3px;
@@ -1179,6 +1179,119 @@
   #demo .field input,
   #demo .field select {
     min-height: 46px;
+  }
+
+  .billing-demo-stage {
+    order: 3;
+    position: relative;
+    height: 175svh;
+    min-width: 0;
+  }
+
+  .billing-demo-stage .billing-product {
+    position: sticky;
+    top: 8px;
+    width: 100%;
+    max-height: calc(100svh - 16px);
+    overflow: hidden;
+    box-shadow: 0 24px 55px #061c164d;
+  }
+
+  .billing-demo-stage .screen-top {
+    min-height: 46px;
+    padding: 9px 12px;
+    font-size: .76rem;
+  }
+
+  .billing-demo-stage .screen-body {
+    padding: 10px;
+  }
+
+  .billing-demo-stage .bill-progress {
+    margin-bottom: 7px;
+  }
+
+  .billing-demo-stage .bill-step {
+    padding: 5px 2px;
+    font-size: .5rem;
+  }
+
+  .billing-demo-stage .bill-customer {
+    grid-template-columns: 1fr 1fr !important;
+    gap: 5px;
+  }
+
+  .billing-demo-stage .bill-customer .live-field:first-child {
+    grid-column: 1 / -1 !important;
+  }
+
+  .billing-demo-stage .live-field {
+    min-height: 40px;
+    padding: 6px;
+  }
+
+  .billing-demo-stage .live-field small {
+    margin-bottom: 1px;
+    font-size: .5rem;
+  }
+
+  .billing-demo-stage .live-field b {
+    font-size: .66rem;
+  }
+
+  .billing-demo-stage .bill-table {
+    margin-top: 6px;
+  }
+
+  .billing-demo-stage .bill-item span {
+    padding: 6px 7px;
+    font-size: .66rem;
+  }
+
+  .billing-demo-stage .bill-item span:first-child {
+    padding-block: 7px;
+  }
+
+  .billing-demo-stage .bill-item span:not(:first-child)::before {
+    margin-bottom: 0;
+    font-size: .48rem;
+  }
+
+  .billing-demo-stage .bill-bottom {
+    gap: 6px;
+    margin-top: 6px;
+  }
+
+  .billing-demo-stage .bill-pay {
+    gap: 4px;
+  }
+
+  .billing-demo-stage .pay-chip {
+    padding: 5px 3px;
+    font-size: .59rem;
+  }
+
+  .billing-demo-stage .bill-total {
+    padding: 8px 10px;
+  }
+
+  .billing-demo-stage .bill-total strong {
+    font-size: .92rem;
+  }
+
+  .billing-demo-stage .bill-save {
+    min-height: 38px;
+    padding: 7px;
+  }
+
+  .billing-demo-stage .bill-note {
+    display: none;
+  }
+
+  .billing-demo-active .mobile-dock {
+    transform: translateY(calc(100% + 24px));
+    opacity: 0;
+    pointer-events: none;
   }
 }
 
@@ -1418,7 +1531,7 @@
     gap: 18px;
     min-width: 0;
     max-width: 100%;
-    overflow: hidden;
+    overflow: visible;
   }
 
   .billing-left,

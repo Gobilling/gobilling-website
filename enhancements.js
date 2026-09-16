@@ -15,6 +15,22 @@
     dockAction.innerHTML = '<svg viewBox="0 0 24 24" aria-hidden="true"><path d="M12 2a10 10 0 0 0-8.6 15.1L2 22l5-1.4A10 10 0 1 0 12 2Zm5.5 14c-.2.6-1.2 1.1-1.7 1.2-.5.1-1.1.2-1.8-.1-3.5-1.2-5.7-4.8-5.8-5-.7-1.1-.8-2.4-.2-3.4.3-.5.7-.8 1.1-.8h.6c.2 0 .4 0 .6.5l.8 2c.1.2.1.4 0 .6l-.5.7c-.1.2-.2.4 0 .7.5.9 1.7 2.4 3.6 3.1.3.1.5.1.7-.1l.9-1.1c.2-.3.4-.2.7-.1l1.9.9c.3.1.5.2.5.4 0 .2 0 .8-.2 1.4Z"/></svg><span>WhatsApp</span>';
   }
 
+  const billingProduct = document.querySelector('#billing .billing-product');
+  if (billingProduct) {
+    const stage = document.createElement('div');
+    stage.className = 'billing-demo-stage';
+    billingProduct.parentNode.insertBefore(stage, billingProduct);
+    stage.appendChild(billingProduct);
+    const billingObserver = new IntersectionObserver(entries => {
+      const visible = entries.some(entry => entry.isIntersecting && entry.intersectionRatio > .52);
+      document.body.classList.toggle('billing-demo-active', visible && innerWidth <= 650);
+    }, { threshold: [.25, .52, .75] });
+    billingObserver.observe(billingProduct);
+    addEventListener('resize', () => {
+      if (innerWidth > 650) document.body.classList.remove('billing-demo-active');
+    }, { passive: true });
+  }
+
   const inventory = document.getElementById('inventory');
   const labelWorkflow = inventory?.querySelectorAll('.workflow')[0];
   if (labelWorkflow) {
