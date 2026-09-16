@@ -18,7 +18,7 @@
     position: absolute;
     z-index: 2;
     inset: 0 0 auto;
-    padding: 24px 22px 0;
+    padding: 18px 18px 0;
     text-align: center;
     color: #fff;
   }
@@ -40,33 +40,67 @@
 
   .mobile-hero-copy h1 {
     max-width: 330px;
-    margin: 12px auto 8px;
+    margin: 9px auto 6px;
     color: #fff;
-    font: 500 2.05rem/1.02 Georgia, serif;
+    font: 500 1.9rem/1.02 Georgia, serif;
     letter-spacing: -.035em;
   }
 
   .mobile-hero-copy p {
-    margin: 0;
+    margin: 13px 0 0;
     color: #f1d48a;
-    font-size: .72rem;
+    font-size: .63rem;
     font-weight: 800;
     letter-spacing: .15em;
     text-transform: uppercase;
   }
 
   .mobile-promise-row {
-    display: flex;
-    justify-content: center;
-    gap: 11px;
-    margin-top: 14px;
-    color: #ffffffb8;
-    font-size: .68rem;
+    display: grid;
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+    gap: 7px;
+    margin-top: 12px;
+    color: #fff;
   }
 
-  .mobile-promise-row span + span {
+  .mobile-promise-row > span {
+    display: grid;
+    grid-template-columns: 23px 1fr;
+    grid-template-rows: auto auto;
+    column-gap: 5px;
+    align-items: center;
+    min-width: 0;
+    padding: 5px 4px;
     border-left: 1px solid #d5b25366;
-    padding-left: 11px;
+    text-align: left;
+  }
+
+  .mobile-promise-row > span:first-child {
+    border-left: 0;
+  }
+
+  .mobile-promise-row i {
+    grid-row: 1 / 3;
+    width: 21px;
+    height: 21px;
+    display: grid;
+    place-items: center;
+    border: 1px solid #d9ad52;
+    border-radius: 50%;
+    color: #f2d58b;
+    font-style: normal;
+    font-size: .62rem;
+  }
+
+  .mobile-promise-row b {
+    font-size: .62rem;
+    line-height: 1.05;
+  }
+
+  .mobile-promise-row small {
+    color: #ffffffa8;
+    font-size: .54rem;
+    line-height: 1.05;
   }
 
   .concept-bar {
