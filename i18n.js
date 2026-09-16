@@ -2,16 +2,16 @@
   const translations = {
     hi: {
       'Jewellery Billing & ERP Software': 'ज्वेलरी Billing और ERP Software',
-      'Billing': 'Billing', 'Simplified': 'आसान', 'Inventory': 'Stock', 'In Control': 'पूरा नियंत्रण', 'Business': 'व्यवसाय', 'Ahead': 'आगे',
+      'Billing': 'Billing', 'Simplified': 'आसान', 'Inventory': 'Stock', 'In Control': 'पूरा नियंत्रण', 'Business': 'व्यवसाय', 'Ahead': 'तरक्की',
       'Built for\nIndian Jewellery Businesses': 'भारतीय ज्वेलरी व्यवसायों के लिए',
       'See how GoBilling fits your jewellery business.': 'देखें GoBilling आपके ज्वेलरी व्यवसाय में कैसे काम करता है।',
       'Start with billing, stock, labels or the workflow that matters most to you.': 'Billing, stock, labels या आपके सबसे जरूरी काम से शुरुआत करें।',
       'Explore product': 'Product देखें', 'Book your free demo': 'फ्री डेमो बुक करें',
-      'Billing Simplified': 'Billing आसान', 'Inventory In Control': 'Stock नियंत्रण में', 'Business Ahead': 'व्यवसाय आगे',
+      'Billing Simplified': 'Billing आसान', 'Inventory In Control': 'Stock नियंत्रण में', 'Business Ahead': 'आगे बढ़ता व्यवसाय',
       'Bill quickly': 'जल्दी Bill बनाएं', 'One focused billing screen.': 'एक आसान Billing screen।',
       'Know every item': 'हर item की जानकारी', 'Image, tag, weight and location.': 'Photo, tag, weight और location।',
       'Track every job': 'हर job track करें', 'Orders, karigars and metal.': 'Orders, karigar और metal।',
-      'Act on time': 'समय पर कार्रवाई', 'Attention queues and reports.': 'जरूरी काम और reports।',
+      'Act on time': 'समय पर जरूरी काम', 'Attention queues and reports.': 'जरूरी काम और reports।',
       'Quick Billing': 'Quick Billing', 'Inventory & Labels': 'Stock और Labels', 'Orders & Karigar': 'Orders और Karigar',
       'Customers & Parties': 'Customers और Parties', 'Girvi Management': 'Girvi Management', 'Saving Schemes': 'Saving Schemes',
       'Marketing': 'Marketing', 'Reports & Control': 'Reports और Control', 'Book a Demo': 'डेमो बुक करें',
@@ -28,7 +28,7 @@
       'Item / Tag': 'Item / Tag', 'Purity': 'Purity', 'Gross Wt.': 'Gross Wt.', 'Stone Wt.': 'Stone Wt.', 'Net Wt.': 'Net Wt.', 'Rate': 'Rate', 'Amount': 'Amount',
       'Grand total': 'कुल रकम', 'Save bill': 'Bill save करें', 'Live demonstration: a complete jewellery bill without opening another screen.': 'Live demo: दूसरी screen खोले बिना पूरा jewellery bill।',
       '02 INVENTORY AND LABELS': '02 STOCK और LABELS', 'Add stock once. Find and print it your way.': 'Stock एक बार जोड़ें। आसानी से खोजें और print करें।',
-      'Photos, tag, batch, weight, rack and box stay connected to each item.': 'हर item के साथ photo, tag, batch, weight, rack और box जुड़े रहें।',
+      'Photos, tag, batch, weight, rack and box stay connected to each item.': 'हर item के साथ photo, tag, batch, weight, rack और box जुड़े रहते हैं।',
       'Add on computer or mobile': 'Computer या mobile से stock जोड़ें', 'Use a secure QR code to take clearer photos and enter details by phone.': 'QR code से mobile पर साफ photo और details जोड़ें।',
       'Search with more than ten filters': '10 से ज्यादा filters से खोजें', 'Metal, purity, batch, tag, rack, box and stock status.': 'Metal, purity, batch, tag, rack, box और stock status।',
       'Verify physically': 'Physical stock मिलाएं', 'Track expected, checked, missing and duplicate stock with history.': 'Expected, checked, missing और duplicate stock की history देखें।',
@@ -36,11 +36,11 @@
       'Choose barcode or QR code, then print on a thermal barcode printer or regular sheet printer.': 'Barcode या QR चुनें और thermal या regular printer से print करें।',
       '03 ORDERS AND KARIGAR': '03 ORDERS और KARIGAR', 'From customer order to final settlement.': 'Customer order से final settlement तक।',
       'Assignment, work status, metal and charges remain connected.': 'Assignment, work status, metal और charges एक साथ जुड़े रहें।',
-      'See unassigned work': 'बिना assign हुए काम देखें', 'Know which order items still need a karigar.': 'जानें किन order items को अभी karigar चाहिए।',
+      'See unassigned work': 'बिना assign हुए काम देखें', 'Know which order items still need a karigar.': 'जानें किन order items के लिए कारीगर तय करना बाकी है।',
       'Track work and metal': 'काम और metal track करें', 'Issue, return and balance fine or kacha metal.': 'Metal issue, return और balance track करें।',
       'Settle flexibly': 'आसानी से settlement करें', 'Cash, bank, metal pay and rate cut.': 'Cash, bank, metal pay और rate cut।',
-      'Delivery control': 'Delivery control', 'New': 'नया', 'In work': 'काम में', 'Ready': 'तैयार', 'Assign': 'Assign करें', 'Track': 'Track करें', 'Deliver': 'Deliver करें',
-      '04 CUSTOMERS AND PARTIES': '04 CUSTOMERS और PARTIES', 'Remember the relationship, not only the balance.': 'सिर्फ balance नहीं, पूरा customer संबंध याद रखें।',
+      'Delivery control': 'Delivery control', 'New': 'नया', 'In work': 'काम चालू', 'Ready': 'तैयार', 'Assign': 'Assign करें', 'Track': 'Track करें', 'Deliver': 'Deliver करें',
+      '04 CUSTOMERS AND PARTIES': '04 CUSTOMERS और PARTIES', 'Remember the relationship, not only the balance.': 'सिर्फ balance ही नहीं, ग्राहक से पूरा रिश्ता निभाएं।',
       'Customers, suppliers and karigars with ledgers, family profiles and follow-ups.': 'Customers, suppliers और karigars के ledgers, family profiles और follow-ups।',
       'Complete party ledgers': 'ग्राहक / पार्टी लेज़र', 'Old and current money, gold and silver transactions.': 'पुराने और नए money, gold और silver transactions।',
       'Family and preferences': 'Family और preferences', 'Sizes, birthdays, anniversaries and buying interests.': 'Sizes, birthdays, anniversaries और buying interests।',
@@ -69,7 +69,7 @@
       'Follow the timeline, print or export supported formats.': 'Timeline देखें और print या export करें।',
       'One simple path for every report: choose → filter → review → export.': 'हर report का आसान तरीका: चुनें → filter करें → जांचें → export करें।',
       'PERSONAL PRODUCT DEMONSTRATION': 'आपके व्यवसाय के लिए PERSONAL DEMO', 'Start with what matters to you.': 'आपके सबसे जरूरी काम से शुरू करें।',
-      'We will not overwhelm you with every module. Choose your first priority and we will demonstrate that workflow first.': 'हम एक साथ सभी modules नहीं दिखाएंगे। अपनी पहली जरूरत चुनें और हम वही workflow पहले दिखाएंगे।',
+      'We will not overwhelm you with every module. Choose your first priority and we will demonstrate that workflow first.': 'हम सभी modules एक साथ दिखाकर आपको उलझाएंगे नहीं। अपनी पहली जरूरत चुनें और हम वही workflow पहले दिखाएंगे।',
       'Understand your current process': 'आपका मौजूदा तरीका समझें', 'Show only relevant workflows': 'सिर्फ जरूरी workflows देखें', 'Plan setup and training': 'Setup और training की योजना',
       'Your name': 'आपका नाम', 'Business name': 'दुकान का नाम', 'WhatsApp number': 'WhatsApp नंबर', 'City': 'शहर',
       'What should we show first?': 'सबसे पहले क्या दिखाएं?', 'Primary reason for considering GoBilling': 'GoBilling लेने का मुख्य कारण',
@@ -84,20 +84,31 @@
       'Saving schemes': 'Saving schemes', 'Marketing and follow-up': 'Marketing और follow-up', 'Reports and complete ERP': 'Reports और complete ERP',
       'Item tag': 'Item tag', 'Box label': 'Box label', 'Thermal tag printer': 'Thermal tag printer', 'Barcode printer': 'Barcode printer', 'Regular A4 printer': 'Regular A4 printer',
       'Tag attached. Item ready to scan.': 'Tag लगा है। Item scan के लिए तैयार है।', 'Find jewellery instantly by barcode or QR code and keep its image, weight and location connected.': 'Barcode या QR से jewellery तुरंत खोजें; photo, weight और location जुड़े रहें।',
-      'Customer photo': 'Customer photo', 'Verified': 'Verified', 'Gold necklace': 'Gold necklace', '3 images': '3 photos', 'Packet label': 'Packet label'
+      'Customer photo': 'ग्राहक की फोटो', 'Verified': 'सत्यापित', 'Gold necklace': 'सोने का हार', '3 images': '3 फोटो', 'Packet label': 'पैकेट लेबल',
+      'Jewellery Label Studio': 'ज्वेलरी लेबल स्टूडियो', 'Live preview · 100 × 44 mm': 'लाइव प्रीव्यू · 100 × 44 mm', 'Jewellery tag': 'ज्वेलरी टैग', 'Regular sheet': 'साधारण शीट',
+      'Order & Karigar Board': 'Order और Karigar Board', 'Bridal necklace': 'Bridal necklace', 'Metal issued · Polishing pending': 'Metal issue · Polishing बाकी',
+      'Ring resizing': 'Ring resizing', 'Quality checked · Customer notified': 'Quality check · Customer को सूचना', 'Order': 'Order',
+      'Identity & article verification': 'पहचान और item verification', 'Mobile / webcam photo': 'Mobile / webcam photo', 'Thumb impression captured': 'Thumb impression लिया गया', 'ID document verified': 'ID document verified',
+      'Loan': 'गिरवी लोन', 'Net weight': 'नेट वेट', 'Packet': 'पैकेट', 'Articles': 'आइटम', 'Loan workflow': 'गिरवी लोन प्रक्रिया',
+      'Campaign ready': 'Campaign तैयार', 'Wedding Season 2026': 'Wedding Season 2026', '186 customers': '186 customers', 'Approved template': 'Approved template', 'Fallback enabled': 'Fallback enabled',
+      'Audience': 'चुने हुए ग्राहक', 'Delivered': 'पहुंचे संदेश', 'Responses': 'जवाब',
+      'Owner view': 'मालिक का व्यू', 'Sales summary · This month': 'बिक्री सारांश · इस महीने', '48 invoices · ₹2,16,300 received': '48 बिल · ₹2,16,300 प्राप्त',
+      'Filter dates': 'तारीख चुनें', 'Review details': 'जानकारी जांचें', 'Sales summary': 'बिक्री सारांश', 'Profit overview': 'मुनाफे का सारांश', 'Available stock': 'उपलब्ध स्टॉक',
+      'Party ledger': 'पार्टी लेज़र', 'Unassigned': 'कारीगर तय नहीं', 'Overdue': 'तारीख निकल गई', 'Reports centre': 'रिपोर्ट सेंटर', 'Monthly schemes': 'मासिक स्कीम',
+      'Registrations': 'रजिस्ट्रेशन', 'Due soon': 'जल्द देय', 'Gold exposure': 'सोने की देनदारी', 'Maturity': 'पूरी होने की तारीख', 'Tracked': 'ट्रैक किया', 'Controlled': 'नियंत्रण में'
     },
     te: {
       'Jewellery Billing & ERP Software': 'జ్యువెలరీ Billing & ERP Software',
-      'Billing': 'Billing', 'Simplified': 'సులభం', 'Inventory': 'Stock', 'In Control': 'పూర్తి నియంత్రణ', 'Business': 'వ్యాపారం', 'Ahead': 'ముందుకు',
+      'Billing': 'Billing', 'Simplified': 'సులభం', 'Inventory': 'Stock', 'In Control': 'పూర్తి నియంత్రణ', 'Business': 'వ్యాపారం', 'Ahead': 'ముందంజ',
       'Built for\nIndian Jewellery Businesses': 'భారతీయ జ్యువెలరీ వ్యాపారాల కోసం',
       'See how GoBilling fits your jewellery business.': 'GoBilling మీ జ్యువెలరీ వ్యాపారానికి ఎలా ఉపయోగపడుతుందో చూడండి.',
       'Start with billing, stock, labels or the workflow that matters most to you.': 'Billing, stock, labels లేదా మీకు ముఖ్యమైన పనితో ప్రారంభించండి.',
       'Explore product': 'Product చూడండి', 'Book your free demo': 'ఉచిత డెమో బుక్ చేసుకోండి',
-      'Billing Simplified': 'Billing సులభం', 'Inventory In Control': 'Stock నియంత్రణలో', 'Business Ahead': 'వ్యాపారం ముందుకు',
+      'Billing Simplified': 'Billing సులభం', 'Inventory In Control': 'Stock నియంత్రణలో', 'Business Ahead': 'వ్యాపారంలో ముందంజ',
       'Bill quickly': 'వేగంగా Bill చేయండి', 'One focused billing screen.': 'ఒకే సులభమైన Billing screen.',
       'Know every item': 'ప్రతి item వివరాలు', 'Image, tag, weight and location.': 'Photo, tag, weight మరియు location.',
       'Track every job': 'ప్రతి job track చేయండి', 'Orders, karigars and metal.': 'Orders, karigars మరియు metal.',
-      'Act on time': 'సమయానికి చర్య', 'Attention queues and reports.': 'ముఖ్యమైన పనులు మరియు reports.',
+      'Act on time': 'సకాలంలో ముఖ్యమైన పనులు', 'Attention queues and reports.': 'ముఖ్యమైన పనులు మరియు reports.',
       'Quick Billing': 'Quick Billing', 'Inventory & Labels': 'Stock & Labels', 'Orders & Karigar': 'Orders & Karigar',
       'Customers & Parties': 'Customers & Parties', 'Girvi Management': 'Girvi Management', 'Saving Schemes': 'Saving Schemes',
       'Marketing': 'Marketing', 'Reports & Control': 'Reports & Control', 'Book a Demo': 'డెమో బుక్ చేసుకోండి',
@@ -110,11 +121,11 @@
       'See a jewellery invoice build itself from customer selection to payment and save.': 'Customer ఎంపిక నుంచి payment మరియు save వరకు invoice తయారవడం చూడండి.',
       'Sri Mathaji Jewellers · New Tax Invoice': 'Sri Mathaji Jewellers · కొత్త Tax Invoice',
       '1 Customer': '1 Customer', '2 Item': '2 Item', '3 Charges': '3 Charges', '4 Payment': '4 Payment', '5 Save': '5 Save',
-      'Customer': 'Customer', 'State': 'రాష్ట్రం', 'Search name or mobile': 'పేరు లేదా mobile వెతకండి', 'Select': 'ఎంచుకోండి', 'Optional': 'ఐచ్ఛికం', 'Walk-in customer': 'Walk-in customer',
+      'Customer': 'Customer', 'State': 'రాష్ట్రం', 'Search name or mobile': 'పేరు లేదా mobile వెతకండి', 'Select': 'ఎంచుకోండి', 'Optional': 'తప్పనిసరి కాదు', 'Walk-in customer': 'Walk-in customer',
       'Item / Tag': 'Item / Tag', 'Purity': 'Purity', 'Gross Wt.': 'Gross Wt.', 'Stone Wt.': 'Stone Wt.', 'Net Wt.': 'Net Wt.', 'Rate': 'Rate', 'Amount': 'Amount',
       'Grand total': 'మొత్తం', 'Save bill': 'Bill save చేయండి', 'Live demonstration: a complete jewellery bill without opening another screen.': 'Live demo: మరో screen తెరవకుండా పూర్తి jewellery bill.',
       '02 INVENTORY AND LABELS': '02 STOCK & LABELS', 'Add stock once. Find and print it your way.': 'Stock ఒకసారి జోడించండి. సులభంగా వెతికి print చేయండి.',
-      'Photos, tag, batch, weight, rack and box stay connected to each item.': 'ప్రతి itemతో photo, tag, batch, weight, rack మరియు box అనుసంధానంగా ఉంటాయి.',
+      'Photos, tag, batch, weight, rack and box stay connected to each item.': 'ప్రతి itemకు photo, tag, batch, weight, rack మరియు box వివరాలు ఒకేచోట ఉంటాయి.',
       'Add on computer or mobile': 'Computer లేదా mobileలో stock జోడించండి', 'Use a secure QR code to take clearer photos and enter details by phone.': 'QR codeతో mobileలో స్పష్టమైన photos మరియు details జోడించండి.',
       'Search with more than ten filters': '10 కంటే ఎక్కువ filtersతో వెతకండి', 'Metal, purity, batch, tag, rack, box and stock status.': 'Metal, purity, batch, tag, rack, box మరియు stock status.',
       'Verify physically': 'Physical stock సరిపోల్చండి', 'Track expected, checked, missing and duplicate stock with history.': 'Expected, checked, missing మరియు duplicate stock history చూడండి.',
@@ -122,16 +133,16 @@
       'Choose barcode or QR code, then print on a thermal barcode printer or regular sheet printer.': 'Barcode లేదా QR ఎంచుకుని thermal లేదా regular printerతో print చేయండి.',
       '03 ORDERS AND KARIGAR': '03 ORDERS & KARIGAR', 'From customer order to final settlement.': 'Customer order నుంచి final settlement వరకు.',
       'Assignment, work status, metal and charges remain connected.': 'Assignment, work status, metal మరియు charges కలిసి ఉంటాయి.',
-      'See unassigned work': 'Assign కాని పనులు చూడండి', 'Know which order items still need a karigar.': 'ఏ order itemsకు ఇంకా karigar అవసరమో తెలుసుకోండి.',
+      'See unassigned work': 'Assign కాని పనులు చూడండి', 'Know which order items still need a karigar.': 'ఏ ఆర్డర్లకు ఇంకా కారికర్‌ను కేటాయించాలో తెలుసుకోండి.',
       'Track work and metal': 'పని మరియు metal track చేయండి', 'Issue, return and balance fine or kacha metal.': 'Metal issue, return మరియు balance track చేయండి.',
       'Settle flexibly': 'సులభంగా settlement చేయండి', 'Cash, bank, metal pay and rate cut.': 'Cash, bank, metal pay మరియు rate cut.',
-      'Delivery control': 'Delivery control', 'New': 'కొత్త', 'In work': 'పనిలో', 'Ready': 'సిద్ధం', 'Assign': 'Assign చేయండి', 'Track': 'Track చేయండి', 'Deliver': 'Deliver చేయండి',
-      '04 CUSTOMERS AND PARTIES': '04 CUSTOMERS & PARTIES', 'Remember the relationship, not only the balance.': 'Balance మాత్రమే కాదు, పూర్తి customer సంబంధాన్ని గుర్తుంచుకోండి.',
+      'Delivery control': 'Delivery control', 'New': 'కొత్త', 'In work': 'పని జరుగుతోంది', 'Ready': 'సిద్ధం', 'Assign': 'Assign చేయండి', 'Track': 'Track చేయండి', 'Deliver': 'Deliver చేయండి',
+      '04 CUSTOMERS AND PARTIES': '04 CUSTOMERS & PARTIES', 'Remember the relationship, not only the balance.': 'బ్యాలెన్స్ మాత్రమే కాదు, కస్టమర్‌తో పూర్తి అనుబంధాన్ని కొనసాగించండి.',
       'Customers, suppliers and karigars with ledgers, family profiles and follow-ups.': 'Customers, suppliers, karigarsకు ledgers, family profiles మరియు follow-ups.',
       'Complete party ledgers': 'కస్టమర్ ఖాతా / పార్టీ లెడ్జర్', 'Old and current money, gold and silver transactions.': 'పాత, కొత్త money, gold మరియు silver transactions.',
       'Family and preferences': 'Family మరియు preferences', 'Sizes, birthdays, anniversaries and buying interests.': 'Sizes, birthdays, anniversaries మరియు buying interests.',
       'Requests and follow-ups': 'Requests మరియు follow-ups', 'Product interest, price alert, custom order and reminders.': 'Product interest, price alert, custom order మరియు reminders.',
-      'Supplier examples use familiar names such as Balaji Jewellers.': 'Supplier కోసం Balaji Jewellers వంటి పరిచయమైన పేర్లు చూపించాం.',
+      'Supplier examples use familiar names such as Balaji Jewellers.': 'సప్లయర్ల కోసం Balaji Jewellers వంటి పేర్లను ఉదాహరణగా ఇచ్చాము.',
       '05 GIRVI MANAGEMENT': '05 GIRVI MANAGEMENT', 'Create the loan and secure the packet.': 'Loan సృష్టించి packetను సురక్షితంగా ఉంచండి.',
       'See the Girvi workflow from customer identification to item custody.': 'Customer గుర్తింపు నుంచి item custody వరకు పూర్తి Girvi workflow చూడండి.',
       'Select customer': 'Customer ఎంచుకోండి', 'Search a customer and capture their photo using webcam or mobile.': 'Customerను వెతికి webcam లేదా mobileతో photo తీసుకోండి.',
@@ -149,13 +160,13 @@
       'Supported integrations': 'Supported integrations', 'Approved WhatsApp or SMS services where configured.': 'Configure చేసిన చోట approved WhatsApp లేదా SMS services.',
       '08 REPORTS AND CONTROL': '08 REPORTS & CONTROL', 'Choose, filter and act on the report.': 'Report ఎంచుకుని, filter చేసి, నిర్ణయం తీసుకోండి.',
       'Every report follows the same simple path, from selection to export or filing.': 'ప్రతి reportలో ఒకే సులభమైన విధానం: ఎంచుకోండి, filter చేయండి, చూడండి, export చేయండి.',
-      'Choose a report': 'Report ఎంచుకోండి', 'Apply the date and filters': 'Date మరియు filters పెట్టండి', 'Review and export': 'చూసి export చేయండి',
+      'Choose a report': 'Report ఎంచుకోండి', 'Apply the date and filters': 'తేదీ మరియు ఫిల్టర్లను ఎంచుకోండి', 'Review and export': 'పరిశీలించి export చేయండి',
       'Sales, stock, party, GST, karigar, Girvi or scheme reports.': 'Sales, stock, party, GST, karigar, Girvi మరియు scheme reports.',
       'View the exact business period or transaction group required.': 'అవసరమైన business period లేదా transaction group చూడండి.',
       'Follow the timeline, print or export supported formats.': 'Timeline చూసి print లేదా export చేయండి.',
       'One simple path for every report: choose → filter → review → export.': 'ప్రతి reportకు సులభమైన విధానం: ఎంచుకోండి → filter చేయండి → చూడండి → export చేయండి.',
       'PERSONAL PRODUCT DEMONSTRATION': 'మీ వ్యాపారం కోసం PERSONAL DEMO', 'Start with what matters to you.': 'మీకు ముఖ్యమైన పనితో ప్రారంభించండి.',
-      'We will not overwhelm you with every module. Choose your first priority and we will demonstrate that workflow first.': 'అన్ని modules ఒకేసారి చూపము. మీ మొదటి అవసరాన్ని ఎంచుకోండి; ఆ workflowనే ముందుగా చూపిస్తాము.',
+      'We will not overwhelm you with every module. Choose your first priority and we will demonstrate that workflow first.': 'అన్ని మాడ్యూల్స్ ఒకేసారి చూపి మిమ్మల్ని అయోమయానికి గురిచేయము. మీ మొదటి అవసరాన్ని ఎంచుకోండి; ఆ workflowనే ముందుగా చూపిస్తాము.',
       'Understand your current process': 'మీ ప్రస్తుత విధానాన్ని అర్థం చేసుకుంటాము', 'Show only relevant workflows': 'అవసరమైన workflows మాత్రమే', 'Plan setup and training': 'Setup మరియు training ప్రణాళిక',
       'Your name': 'మీ పేరు', 'Business name': 'దుకాణం పేరు', 'WhatsApp number': 'WhatsApp నంబర్', 'City': 'నగరం',
       'What should we show first?': 'ముందుగా ఏమి చూపాలి?', 'Primary reason for considering GoBilling': 'GoBilling తీసుకోవడానికి ప్రధాన కారణం',
@@ -169,8 +180,19 @@
       'Orders and karigar': 'Orders మరియు karigar', 'Customers and parties': 'Customers మరియు parties', 'Girvi management': 'Girvi management',
       'Saving schemes': 'Saving schemes', 'Marketing and follow-up': 'Marketing మరియు follow-up', 'Reports and complete ERP': 'Reports మరియు complete ERP',
       'Item tag': 'Item tag', 'Box label': 'Box label', 'Thermal tag printer': 'Thermal tag printer', 'Barcode printer': 'Barcode printer', 'Regular A4 printer': 'Regular A4 printer',
-      'Tag attached. Item ready to scan.': 'Tag జోడించబడింది. Item scanకు సిద్ధం.', 'Find jewellery instantly by barcode or QR code and keep its image, weight and location connected.': 'Barcode లేదా QRతో jewellery వెంటనే కనుగొనండి; photo, weight మరియు location అనుసంధానంగా ఉంచండి.',
-      'Customer photo': 'Customer photo', 'Verified': 'Verified', 'Gold necklace': 'Gold necklace', '3 images': '3 photos', 'Packet label': 'Packet label'
+      'Tag attached. Item ready to scan.': 'Tag జోడించబడింది. Item scanకు సిద్ధం.', 'Find jewellery instantly by barcode or QR code and keep its image, weight and location connected.': 'Barcode లేదా QRతో jewellery వెంటనే కనుగొనండి; photo, weight మరియు location ఒకేచోట జతచేసి ఉంచండి.',
+      'Customer photo': 'కస్టమర్ ఫోటో', 'Verified': 'ధృవీకరించబడింది', 'Gold necklace': 'బంగారు హారం', '3 images': '3 ఫోటోలు', 'Packet label': 'ప్యాకెట్ లేబుల్',
+      'Jewellery Label Studio': 'జ్యువెలరీ లేబుల్ స్టూడియో', 'Live preview · 100 × 44 mm': 'లైవ్ ప్రివ్యూ · 100 × 44 mm', 'Jewellery tag': 'జ్యువెలరీ ట్యాగ్', 'Regular sheet': 'సాధారణ షీట్',
+      'Order & Karigar Board': 'Order & Karigar Board', 'Bridal necklace': 'Bridal necklace', 'Metal issued · Polishing pending': 'Metal issue · Polishing మిగిలింది',
+      'Ring resizing': 'Ring resizing', 'Quality checked · Customer notified': 'Quality check · Customerకు సమాచారం', 'Order': 'Order',
+      'Identity & article verification': 'గుర్తింపు మరియు item verification', 'Mobile / webcam photo': 'Mobile / webcam photo', 'Thumb impression captured': 'Thumb impression తీసుకున్నారు', 'ID document verified': 'ID document verified',
+      'Loan': 'గిర్వీ లోన్', 'Net weight': 'నెట్ వెయిట్', 'Packet': 'ప్యాకెట్', 'Articles': 'ఐటమ్స్', 'Loan workflow': 'గిర్వీ లోన్ ప్రక్రియ',
+      'Campaign ready': 'Campaign సిద్ధం', 'Wedding Season 2026': 'Wedding Season 2026', '186 customers': '186 customers', 'Approved template': 'Approved template', 'Fallback enabled': 'Fallback enabled',
+      'Audience': 'ఎంచుకున్న కస్టమర్లు', 'Delivered': 'చేరిన సందేశాలు', 'Responses': 'స్పందనలు',
+      'Owner view': 'యజమాని వ్యూ', 'Sales summary · This month': 'అమ్మకాల సారాంశం · ఈ నెల', '48 invoices · ₹2,16,300 received': '48 బిల్లులు · ₹2,16,300 అందింది',
+      'Filter dates': 'తేదీలు ఎంచుకోండి', 'Review details': 'వివరాలు పరిశీలించండి', 'Sales summary': 'అమ్మకాల సారాంశం', 'Profit overview': 'లాభాల సారాంశం', 'Available stock': 'అందుబాటులో ఉన్న స్టాక్',
+      'Party ledger': 'పార్టీ లెడ్జర్', 'Unassigned': 'కారికర్‌ను కేటాయించాలి', 'Overdue': 'గడువు దాటింది', 'Reports centre': 'రిపోర్ట్స్ సెంటర్', 'Monthly schemes': 'నెలవారీ స్కీమ్స్',
+      'Registrations': 'రిజిస్ట్రేషన్లు', 'Due soon': 'త్వరలో చెల్లించాలి', 'Gold exposure': 'బంగారం బాధ్యత', 'Maturity': 'మెచ్యూరిటీ', 'Tracked': 'ట్రాక్ చేశారు', 'Controlled': 'నియంత్రణలో ఉంది'
     }
   };
 
@@ -252,7 +274,7 @@
       if (builtFor) builtFor.innerHTML = language === 'hi' ? 'भारतीय ज्वेलरी<br>व्यवसायों के लिए' : 'భారతీయ జ్యువెలరీ<br>వ్యాపారాల కోసం';
       const diary = document.querySelector('.mobile-diary-promise');
       if (diary) diary.innerHTML = language === 'hi' ? 'आज SMART BILLING.<br>कल मजबूत BUSINESS.' : 'ఈ రోజు SMART BILLING.<br>రేపు బలమైన BUSINESS.';
-      const greeting = language === 'hi' ? 'नमस्ते, मैं GoBilling का डेमो बुक करना चाहता/चाहती हूं।' : 'నమస్కారం, నేను GoBilling డెమో బుక్ చేసుకోవాలనుకుంటున్నాను.';
+      const greeting = language === 'hi' ? 'नमस्ते, मुझे GoBilling का डेमो बुक करना है।' : 'నమస్కారం, నేను GoBilling డెమో బుక్ చేసుకోవాలనుకుంటున్నాను.';
       document.querySelectorAll('a[href*="wa.me/917989070733"]').forEach(link => {
         const url = new URL(link.href);
         url.searchParams.set('text', greeting);
@@ -263,9 +285,9 @@
 
   window.GoBillingI18n = {
     language,
-    formPreparing: () => language === 'hi' ? 'आपका request तैयार हो रहा है...' : language === 'te' ? 'మీ request సిద్ధమవుతోంది...' : 'Preparing your request...',
+    formPreparing: () => language === 'hi' ? 'आपकी request तैयार हो रही है...' : language === 'te' ? 'మీ request సిద్ధమవుతోంది...' : 'Preparing your request...',
     whatsappMessage: data => {
-      if (language === 'hi') return [`नमस्ते, मैं GoBilling का डेमो बुक करना चाहता/चाहती हूं।`, '', `नाम: ${data.name}`, `दुकान: ${data.shop}`, `Phone: ${data.phone}`, `शहर: ${data.city || 'नहीं दिया'}`, `पहले दिखाएं: ${data.need}`, `Notes: ${data.message || 'कोई नहीं'}`].join('\n');
+      if (language === 'hi') return [`नमस्ते, मुझे GoBilling का डेमो बुक करना है।`, '', `नाम: ${data.name}`, `दुकान: ${data.shop}`, `Phone: ${data.phone}`, `शहर: ${data.city || 'नहीं दिया'}`, `पहले दिखाएं: ${data.need}`, `Notes: ${data.message || 'कोई नहीं'}`].join('\n');
       if (language === 'te') return [`నమస్కారం, నేను GoBilling డెమో బుక్ చేసుకోవాలనుకుంటున్నాను.`, '', `పేరు: ${data.name}`, `దుకాణం: ${data.shop}`, `Phone: ${data.phone}`, `నగరం: ${data.city || 'ఇవ్వలేదు'}`, `ముందుగా చూపించండి: ${data.need}`, `Notes: ${data.message || 'ఏమీ లేదు'}`].join('\n');
       return [`Hi, I would like to book a GoBilling demo.`, '', `Name: ${data.name}`, `Business: ${data.shop}`, `Phone: ${data.phone}`, `City: ${data.city || 'Not provided'}`, `Show first: ${data.need}`, `Notes: ${data.message || 'None'}`].join('\n');
     }
