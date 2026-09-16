@@ -9,7 +9,36 @@
   position: relative;
 }
 
+.desktop-diary-promise {
+  position: absolute;
+  z-index: 2;
+  left: 17.4%;
+  top: 82.2%;
+  width: 31%;
+  padding: 8px 18px;
+  transform: rotate(-1deg);
+  background: radial-gradient(ellipse at center, #0b3429 0 52%, #0b3429e8 67%, transparent 78%);
+  color: #e5bd61;
+  font: 700 clamp(.48rem, .78vw, .82rem)/1.28 Georgia, serif;
+  letter-spacing: .17em;
+  text-align: center;
+  text-shadow: 0 1px 2px #0009;
+}
+
 @media (max-width: 650px) {
+  .hero-artwork::after {
+    content: "";
+    position: absolute;
+    z-index: 1;
+    inset: 0 0 auto;
+    height: 40.5%;
+    pointer-events: none;
+    background: linear-gradient(180deg, #073126 0%, #073126 78%, #073126e8 88%, transparent 100%);
+  }
+
+  .desktop-diary-promise {
+    display: none;
+  }
   .hero picture {
     display: block !important;
   }
@@ -24,7 +53,7 @@
     position: absolute;
     z-index: 2;
     inset: 0 0 auto;
-    padding: 12px 14px 0;
+    padding: 16px 18px 0;
     text-align: center;
     color: #fff;
   }
@@ -33,22 +62,22 @@
     display: flex;
     align-items: center;
     justify-content: center;
-    gap: 7px;
-    font-size: 1.38rem;
+    gap: 8px;
+    font-size: 1.4rem;
     font-weight: 900;
   }
 
   .mobile-hero-brand img {
-    width: 31px;
-    height: 31px;
+    width: 32px;
+    height: 32px;
     object-fit: contain;
   }
 
   .mobile-hero-copy h1 {
-    max-width: 330px;
-    margin: 5px auto 4px;
+    max-width: 315px;
+    margin: 10px auto 0;
     color: #fff;
-    font: 500 1.62rem/1 Georgia, serif;
+    font: 500 1.58rem/1.04 Georgia, serif;
     letter-spacing: -.035em;
   }
 
@@ -56,11 +85,11 @@
     display: grid;
     grid-template-columns: 1fr auto 1fr;
     align-items: center;
-    gap: 8px;
-    margin: 8px auto 0 !important;
+    gap: 10px;
+    margin: 12px auto 0 !important;
     max-width: 325px;
     color: #f1d48a;
-    font-size: .54rem !important;
+    font-size: .55rem !important;
     font-weight: 800;
     letter-spacing: .19em !important;
     text-transform: uppercase;
@@ -81,9 +110,9 @@
   .mobile-promise-row {
     display: grid;
     grid-template-columns: repeat(3, minmax(0, 1fr));
-    gap: 4px;
-    margin: 7px auto 0;
-    max-width: 345px;
+    gap: 7px;
+    margin: 13px auto 0;
+    max-width: 335px;
     color: #fff;
   }
 
@@ -94,7 +123,7 @@
     column-gap: 4px;
     align-items: center;
     min-width: 0;
-    padding: 2px 3px 2px 7px;
+    padding: 3px 3px 3px 7px;
     border-left: 1px solid #d5b25366;
     text-align: left;
   }
@@ -161,13 +190,13 @@
     display: block;
     position: absolute;
     z-index: 2;
-    left: 9.5%;
-    top: 77.4%;
-    width: 35%;
+    left: 8.8%;
+    top: 76.9%;
+    width: 37%;
     transform: rotate(4deg) skewX(-4deg);
     color: #e4bc5e;
-    font: 700 .43rem/1.14 Georgia, serif;
-    letter-spacing: .13em;
+    font: 700 .34rem/1.18 Georgia, serif;
+    letter-spacing: .1em;
     text-align: center;
     text-shadow: 0 1px 1px #0008;
   }
