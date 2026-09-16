@@ -53,7 +53,7 @@
     position: absolute;
     z-index: 2;
     inset: 0 0 auto;
-    padding: 16px 18px 0;
+    padding: 14px 18px 0;
     text-align: center;
     color: #fff;
   }
@@ -75,7 +75,7 @@
 
   .mobile-hero-copy h1 {
     max-width: 315px;
-    margin: 10px auto 0;
+    margin: 7px auto 0;
     color: #fff;
     font: 500 1.58rem/1.04 Georgia, serif;
     letter-spacing: -.035em;
@@ -86,7 +86,7 @@
     grid-template-columns: 1fr auto 1fr;
     align-items: center;
     gap: 10px;
-    margin: 12px auto 0 !important;
+    margin: 9px auto 0 !important;
     max-width: 325px;
     color: #f1d48a;
     font-size: .55rem !important;
@@ -111,7 +111,7 @@
     display: grid;
     grid-template-columns: repeat(3, minmax(0, 1fr));
     gap: 7px;
-    margin: 13px auto 0;
+    margin: 9px auto 0;
     max-width: 335px;
     color: #fff;
   }
