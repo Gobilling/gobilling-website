@@ -1142,6 +1142,44 @@
   .form textarea {
     min-height: 76px;
   }
+
+  #reports .visual > .copy {
+    display: none;
+  }
+
+  #reports .visual {
+    display: block;
+  }
+
+  #reports .report-compact {
+    gap: 10px;
+  }
+
+  #demo .demo-grid {
+    gap: 22px;
+  }
+
+  #demo #contact .benefits {
+    display: none;
+  }
+
+  #demo #contact > p:last-child {
+    margin-bottom: 0;
+  }
+
+  #demo .fields {
+    grid-template-columns: 1fr 1fr !important;
+    gap: 10px;
+  }
+
+  #demo .field.full {
+    grid-column: 1 / -1 !important;
+  }
+
+  #demo .field input,
+  #demo .field select {
+    min-height: 46px;
+  }
 }
 
 @media (max-width: 370px) {
